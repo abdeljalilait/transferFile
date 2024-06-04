@@ -1,0 +1,1 @@
+nodejs script that read file and gets servers credentials from a file ips.txt and takes filename via args to transfer file via ssh
